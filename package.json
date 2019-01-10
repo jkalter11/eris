@@ -1,5 +1,5 @@
 {
-  "name": "eris",
+  "name": "disclone",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.1.2",
@@ -35,7 +35,7 @@
     "start": "webpack --watch --mode=development"
   },
   "keywords": [],
-  "author": "echurilov <elena.churilov@gmail.com>",
+  "author": "echurilov <jkalter11@gmail.com>",
   "license": "ISC",
   "engines": {
     "node": "8.4.0",
